@@ -114,4 +114,6 @@ Passionate about clean, simple code and real-world learning through projects.
 
 This project is part of an academic submission and is provided as-is for learning purposes.
 
+---
+
 🚧 Beta Release – Not Production Ready
